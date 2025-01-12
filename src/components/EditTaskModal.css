@@ -1,0 +1,12 @@
+.custom-modal {
+    width: 500px !important;
+}
+
+.custom-modal .modal-body textarea {
+    resize: none;
+}
+
+.custom-btn-modal {
+    background: #1d1d1d !important;
+    border: none !important;
+}
